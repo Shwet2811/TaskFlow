@@ -479,7 +479,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-### Sagar Suryakant Waghmare
+### Shwet mishra
 *Full Stack Developer*
 
 [![GitHub](https://img.shields.io/badge/GitHub-Shwet2811-black?style=for-the-badge&logo=github)](https://github.com/SagarSuryakantWaghmare)
