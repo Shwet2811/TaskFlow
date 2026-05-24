@@ -9,7 +9,7 @@
 **Keywords:** Task Management, Todo List, Productivity App, React Application, MERN Stack, Project Management, Team Collaboration, Free Task Manager
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=vercel)](https://taskflow-sagar.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/SagarSuryakantWaghmare/taskflow)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/Shwet2811/taskflow)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 [![React](https://img.shields.io/badge/React-18-blue?style=for-the-badge&logo=react)](https://reactjs.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-Express-green?style=for-the-badge&logo=node.js)](https://nodejs.org/)
@@ -89,8 +89,8 @@ TaskFlow is a **free, open-source task management application** designed for mod
 Experience TaskFlow without signing up! Use our demo account to explore all features:
 
 ```
-📧 Demo Email: atharvawandhare@gmail.com
-🔑 Demo Password: 12345678
+📧 Demo Email: shwetmishr@gmail.com
+🔑 Demo Password: shwet@123
 ```
 
 ### 🌟 What You Can Try:
@@ -482,10 +482,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ### Sagar Suryakant Waghmare
 *Full Stack Developer*
 
-[![GitHub](https://img.shields.io/badge/GitHub-SagarSuryakantWaghmare-black?style=for-the-badge&logo=github)](https://github.com/SagarSuryakantWaghmare)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sagarwaghmare44-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sagarwaghmare44)
-[![Email](https://img.shields.io/badge/Email-sagarwaghmare1384@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:sagarwaghmare1384@gmail.com)
-[![Behance](https://img.shields.io/badge/Behance-sagarwaghmare-blue?style=for-the-badge&logo=behance)](https://www.behance.net/sagarwaghmare)
+[![GitHub](https://img.shields.io/badge/GitHub-Shwet2811-black?style=for-the-badge&logo=github)](https://github.com/SagarSuryakantWaghmare)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-shwetmishra2811-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sagarwaghmare44)
+[![Email](https://img.shields.io/badge/Email-shwetmishr630@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:sagarwaghmare1384@gmail.com)
+
 
 </div>
 
@@ -505,6 +505,6 @@ Passionate full-stack developer with expertise in modern web technologies. Speci
 
 **🚀 [Visit TaskFlow Live](https://taskflow-indol-six.vercel.app) | 📖 [Read the Docs](#) | 🐛 [Report Bug](https://github.com/SagarSuryakantWaghmare/taskflow/issues)**
 
-Made with ❤️ by [Sagar Waghmare](https://github.com/SagarSuryakantWaghmare)
+Made with ❤️ by [Shwet mishra](https://github.com/Shwet2811)
 
 </div>
